@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\ACER\Desktop\ВДПУ\Програмування_7\ЛБ1\Labb6\Zav1\Zav1\MyForm.h(108,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Zav1.vcxproj -> C:\Users\ACER\Desktop\ВДПУ\Програмування_7\ЛБ1\Labb6\Zav1\x64\Debug\Zav1.exe
